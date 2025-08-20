@@ -121,3 +121,7 @@ $RECYCLE.BIN/
 .DS_Store
 
 _NCrunch*
+
+/**/*.dtbcache.json
+/source/.vs/Data
+/.vs/data-access-application-block/v17
