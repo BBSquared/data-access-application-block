@@ -5,7 +5,7 @@ using System.Collections.Generic;
 using System.Configuration;
 using System.Data.Common;
 using System.Data.OracleClient;
-using System.Data.SqlClient;
+using Microsoft.Data.SqlClient;
 using System.Globalization;
 using Microsoft.Practices.EnterpriseLibrary.Common.Configuration;
 using Microsoft.Practices.EnterpriseLibrary.Common.Utility;

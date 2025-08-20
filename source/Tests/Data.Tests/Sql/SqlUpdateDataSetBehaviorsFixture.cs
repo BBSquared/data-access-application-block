@@ -1,7 +1,7 @@
 ﻿// Copyright (c) Microsoft Corporation. All rights reserved. See License.txt in the project root for license information.
 
 using System.Data;
-using System.Data.SqlClient;
+using Microsoft.Data.SqlClient;
 using Microsoft.Practices.EnterpriseLibrary.Data.Tests.Properties;
 using Microsoft.Practices.EnterpriseLibrary.Data.TestSupport;
 using Microsoft.VisualStudio.TestTools.UnitTesting;

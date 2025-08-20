@@ -3,7 +3,7 @@
 using System;
 using System.Reflection;
 
-[assembly: CLSCompliant(true)]
+[assembly: CLSCompliant(false)]
 [assembly: AssemblyProduct("Microsoft Enterprise Library")]
 [assembly: AssemblyCompany("Microsoft Corporation")]
 
