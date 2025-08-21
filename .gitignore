@@ -127,3 +127,4 @@ _NCrunch*
 /.vs/data-access-application-block/v17
 /BVT/Data.BVT/.vs/Data.BVT
 /.vs
+/**/*.nupkg

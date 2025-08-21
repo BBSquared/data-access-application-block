@@ -1,0 +1,3 @@
+﻿nuget pack
+nuget push BBSquared.EnterpriseLibrary.Data.Microsoft.Data.SqlClient.7.0.0.1.nupkg **key%% -src https://api.nuget.org/v3/index.json
+
