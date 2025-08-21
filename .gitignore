@@ -125,3 +125,5 @@ _NCrunch*
 /**/*.dtbcache.json
 /source/.vs/Data
 /.vs/data-access-application-block/v17
+/BVT/Data.BVT/.vs/Data.BVT
+/.vs
