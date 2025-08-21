@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+    <metadata>
+        <!-- Required elements-->
+        <id>BBSquared.EnterpriseLibrary.Data.Microsoft.Data.SqlClient</id>
+        <version>7.0.0</version>
+        <description>
+			This client library is Microsoft.Practices.EnterpriseLibrary.Data leveraging the Microsoft.Data.SqlClient library for SQL Server connectivity.
+		</description>
+        <authors>BBSquared</authors>
+		<license type="expression">MIT</license>
+		<readme>docs\README.md</readme>
+        <!-- Optional elements -->
+        <!-- ... -->
+    </metadata>
+    <!-- Optional 'files' node -->
+	<files>
+		<file src="README.md" target="docs\" />
+	</files>
+</package>

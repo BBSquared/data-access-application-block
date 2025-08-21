@@ -15,7 +15,7 @@ using Microsoft.Practices.EnterpriseLibrary.Data.Configuration;
 [assembly: AssemblyFileVersion("6.0.1311.0")]
 [assembly: AssemblyInformationalVersion("6.0.1311-prerelease")]
 
-[assembly: SecurityTransparent]
+//[assembly: SecurityTransparent]
 
 [assembly: ComVisible(false)]
 
